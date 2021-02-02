@@ -1,9 +1,9 @@
 {
-    "compilerOptions": {
-      "rootDir": ".",
-      "composite": true,
-      "noEmit": true
-    },
-    "extends": "../../tsconfig.json",
-    "include": ["."]
-  }
+  "compilerOptions": {
+    "rootDir": ".",
+    "composite": true,
+    "noEmit": true
+  },
+  "extends": "../../tsconfig.json",
+  "include": ["."]
+}
